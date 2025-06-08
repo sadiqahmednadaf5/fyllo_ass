@@ -1,0 +1,22 @@
+.productList {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f6f8fa;
+  min-height: 100vh;
+}
+
+.productList h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.productListTable {
+  width: 90%;
+  height: 600px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+    
